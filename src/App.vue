@@ -119,7 +119,7 @@ export default {
   display: flex;
   justify-content: center;
   min-height: 100vh;
-  background-color: #ea526f;
+  background-color: #f9e63c;
   
   &.login {
     align-items: center;
@@ -175,7 +175,7 @@ export default {
           display: block;
           width: 100%;
           padding: 10px 15px;
-          background-color: #ea526f;
+          background-color: #f9e63c;
           border-radius: 8px;
           color: #FFF;
           font-size: 18px;
@@ -183,7 +183,7 @@ export default {
         }
         &:focus-within {
           label {
-            color: #ea526f;
+            color:#f9e63c;
           }
           input[type="text"] {
             background-color: #FFF;
@@ -259,7 +259,7 @@ export default {
             .content {
               color: #FFF;
               font-weight: 600;
-              background-color: #ea526f;
+              background-color: #f9e63c;
             }
           }
         }
@@ -303,7 +303,7 @@ export default {
           display: block;
           padding: 10px 15px;
           border-radius: 0px 8px 8px 0px;
-          background-color: #ea526f;
+          background-color: #f9e63c;
           color: #FFF;
           font-size: 18px;
           font-weight: 700;
